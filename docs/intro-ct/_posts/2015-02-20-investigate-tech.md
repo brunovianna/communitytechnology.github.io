@@ -96,22 +96,22 @@ published: true
 
 <p><em>Opcional:</em> Imagine se a tecnologia fosse construída pela e para sua comunidade. Qual seria a diferença?</p>
 
-<p>Select a presenter to share these ideas with the group.</p>
+<p>Escolha um apresentador para compartilhar as ideias com o grupo.</p>
 
-<p>Each small group should spend 1-2 minutes presenting their findings to the larger group. Discuss and write down the common themes.</p>
+<p>Cada grupo deve apresentar por um ou dois minutos as suas conclusões. Discuta e anote os temas em comum.</p>
 
 
 
-<h3 id="activity-4-synthesize-ideas-about-community-technology">Activity 3: Synthesize Ideas About Community Technology</h3>
+<h3 id="activity-4-synthesize-ideas-about-community-technology">Atividade 3: Sintetize ideias sobre tecnologias comunitárias</h3>u
 
-<p>Estimated Time: 40 minutes.</p>
+<p>Tempo previsto: 40 minutos.</p>
 
-<p>Divide into new small groups. Tip: do not use the same small groups as you did earlier.</p>
+<p>Divida os participantes em grupos pequenos. Sugestão: não use os mesmos grupos que antes.</p>
 
-<p>Based on the previous discussions, define community technology. You can write a sentence, draw a diagram, or act it out, etc. What are the properties of community technology? Each group should pick one person to report back to the larger group.</p>
+<p>Baseado nas últimas discussões, defina tecnologia comunitária. Escreva uma frase, faça um diagrama, interprete, etc. Quais são as propriedades da tecnologia comunitária? Cada grupo escolhe um integrante para se apresentar para todos.</p>
 
 <p>Each small group should spend 1-2 minutes presenting their findings to the larger group. </p>
 
-<p>As a group, discuss the common ideas. What were the common themes? What are the differences? Is there a unified vision of community technology? </p>
+<p>Cada grupo deve apresentar por um ou dois minutos as suas conclusões. Discuta e anote os temas em comum. Existe uma visão comum do que é tecnologia comunitária</p>
 
 
