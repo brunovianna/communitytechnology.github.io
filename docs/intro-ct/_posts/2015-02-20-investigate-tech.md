@@ -110,7 +110,6 @@ published: true
 
 <p>Baseado nas últimas discussões, defina tecnologia comunitária. Escreva uma frase, faça um diagrama, interprete, etc. Quais são as propriedades da tecnologia comunitária? Cada grupo escolhe um integrante para se apresentar para todos.</p>
 
-<p>Each small group should spend 1-2 minutes presenting their findings to the larger group. </p>
 
 <p>Cada grupo deve apresentar por um ou dois minutos as suas conclusões. Discuta e anote os temas em comum. Existe uma visão comum do que é tecnologia comunitária</p>
 
