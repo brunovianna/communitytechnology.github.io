@@ -102,7 +102,7 @@ published: true
 
 
 
-<h3 id="activity-4-synthesize-ideas-about-community-technology">Atividade 3: Sintetize ideias sobre tecnologias comunitárias</h3>u
+<h3 id="activity-4-synthesize-ideas-about-community-technology">Atividade 3: Sintetize ideias sobre tecnologias comunitárias</h3>
 
 <p>Tempo previsto: 40 minutos.</p>
 
