@@ -10,11 +10,11 @@ published: true
 
 <img src="https://farm8.staticflickr.com/7378/14124862063_0b5465bd72.jpg">
 
-<h2 id="investigate-technology">Investigando as tecnologias</h2>
+<h2 id="investigate-technology">Investigando tecnologias</h2>
 
 <h3 id="introduction">Introdução</h3>
 
-<p>Tecnologia comunitária é uma visão da tecnologia com princípios baseados na luta por um ecossistema digital mais justo, valorizando a igualdade, participação, propriedade comum e sustentabilidade. Nessas atividades vão fazer uma análise social para entender as tecnologias que usamos.</p>
+<p>Tecnologia comunitária é uma visão da tecnologia com princípios baseados na luta por um ecossistema digital mais justo, valorizando a igualdade, participação, propriedade comum e sustentabilidade. Nessas atividades vamos fazer uma análise social para entender as tecnologias que usamos.</p>
 
 <p>Objetivo: Investigar as propriedades das tecnologias comuns a todos, entender como impactam a comunidade, e identificar alternativas comunitárias.  </p>
 
@@ -40,6 +40,8 @@ published: true
 <li>Mídias sociais </li>
 <li>Seu computador e o software que tem nele </li>
 <li>A televisão, o rádio, e os programas que passam </li>
+<li>Transportes </li>
+<li>Eletricidade </li>
 </ol>
 
 <p>Divida em grupos de 3 a 5 pessoas, e selecione uma das tecnologias que você lembrou. Juntos, respondam a essas questões sobre essa tecnologia. Uma pessoa do grupo pode escrever as respostas.</p>
